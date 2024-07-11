@@ -1,0 +1,12 @@
+Date of analysis: 2024-07-11
+Log file name: /home/ubuntu/logs/days.log
+Total lines in the log file: 2000
+Total error count: 13
+List of critical events with line number:
+
+Top 5 error messages with their occurrence count:
+      1 2015-08-25 11:20:12,465 - WARN [RecvWorker:3:QuorumCnxManager$RecvWorker@762]
+      1 2015-07-30 17:40:45,765 - WARN [RecvWorker:1:QuorumCnxManager$RecvWorker@762]
+      1 2015-07-29 23:44:28,903 - ERROR [CommitProcessor:1:NIOServerCnxn@180]
+      1 2015-07-29 19:37:27,222 - INFO [ProcessThread(sid:2
+      1 2015-07-29 19:37:21,726 - WARN [RecvWorker:188978561024:QuorumCnxManager$RecvWorker@762]
